@@ -1,1 +1,2 @@
-Please note that the source code was originally represented in a kaggle notebook, but due to issues with pushing it to github, we've done it as a .py file.[
+Please note that the source code was originally represented in a kaggle notebook, but due to issues with pushing it to github, we've done it as a .py file. 
+Due to the tight time constraint we couldnt use desired methods, however in the main round we plan on optimizing the pipeline further via the use of techniques such exhaustive matching. The main reason behind the fact that we couldnt use exhaustive for this program was due to the fact that it required 19900 pairing which we simply couldnt afford the time for.
